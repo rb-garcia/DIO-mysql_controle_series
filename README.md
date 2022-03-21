@@ -1,5 +1,5 @@
 # Descrição do projeto
-Projeto exemplo: como criar um banco de dados simples para controle de séries assistidas. DIO
+Projeto exemplo: como criar uma aplicação simples para controle de séries assistidas utilizando MySQL como base de dados. DIO
 
 # Instruções de uso
 - Instalar componentes do backend e frontend (npm i)<br />
