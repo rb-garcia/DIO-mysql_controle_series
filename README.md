@@ -1,4 +1,4 @@
-# mysql_controle_series
+# Descrição do projeto
 Projeto exemplo: como criar um banco de dados simples para controle de séries assistidas. DIO
 
 # Instruções de uso
